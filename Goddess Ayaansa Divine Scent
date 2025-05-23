@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Goddess Ayaansa's Scent</title>
+  <style>
+    /* Reset */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      background: #1a0a2a;
+      color: #f3e6ff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      padding-bottom: 30px;
+      border-bottom: 2px solid #7e57c2;
+      margin-bottom: 30px;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      color: #d1aaff;
+      letter-spacing: 2px;
+      font-weight: 700;
+      text-shadow: 0 0 10px #b274ff;
+    }
+    header p {
+      font-size: 1.1rem;
+      font-style: italic;
+      margin-top: 8px;
+      color: #bba6ff;
+    }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    section {
+      margin-bottom: 40px;
+      background: #2d1850;
+      border-radius: 10px;
+      padding: 25px 30px;
+      box-shadow: 0 0 15px #5c33ff70;
+    }
+    section h2 {
+      color: #d1aaff;
+      font-size: 2rem;
+      margin-bottom: 15px;
+      border-bottom: 1px solid #7e57c2;
+      padding-bottom: 10px;
+    }
+    .products {
+      display: flex;
+      gap: 30px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .product {
+      background: #3b2773;
+      flex: 1 1 300px;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 12px #9c77ff80;
+      transition: transform 0.3s ease;
+    }
+    .product:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 25px #d1aaff;
+    }
+    .product h3 {
+      color: #e6ccff;
+      margin-bottom: 12px;
+      font-size: 1.5rem;
+    }
+    .product p {
+      font-size: 1rem;
+      margin-bottom: 10px;
+      color: #ccc1ff;
+    }
+    .price {
+      font-weight: 700;
+      color: #ffcccb;
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+    .description p {
+      margin-bottom: 18px;
+      font-size: 1.1rem;
+      color: #d4c3ff;
+    }
+    footer {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 1rem;
+      color: #a88fff;
+    }
+    footer a {
+      color: #d1aaff;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .products {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Goddess Ayaansa's Scent</h1>
+    <p>Embrace the divine essence of Goddess Tanisha’s most intimate treasures</p>
+  </header>
+
+  <main>
+    <section class="products-section">
+      <h2>Our Sacred Garments</h2>
+      <div class="products">
+        <div class="product">
+          <h3>Panties</h3>
+          <p>24 hours worn by Goddess Tanisha</p>
+          <p>Soft, hypnotic, and utterly divine — infused with the sacred scent of her flawless form.</p>
+          <div class="price">Price: 200</div>
+        </div>
+        <div class="product">
+          <h3>Thongs</h3>
+          <p>24 hours worn by Goddess Tanisha</p>
+          <p>Intoxicating musk of supreme authority — a portal into the Goddess's deepest power.</p>
+          <div class="price">Price: 300</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="description">
+      <h2>About Goddess Tanisha's Panties</h2>
+      <p>Every panty from Goddess Tanisha is a sacred treasure — worn directly against the divine curves of her flawless body. For 24 glorious hours, her most intimate garments embrace the warmth, scent, and authority of her perfect ass — an ass sculpted to dominate the gaze and mind of every man who dares to submit.</p>
+      <p>Her cheeks are soft and superior — round, smooth, and utterly hypnotic. They move with effortless power, commanding obedience with every step she takes. These panties cling to that divine flesh, absorbing the musk of her supremacy, the trace of sweat from her throne, and the intoxicating scent of her deepest power.</p>
+      <p>When you bring her panties to your nose, you will feel small. Helpless. Owned.</p>
+      <p>The aroma will overwhelm your senses — a rich blend of arousal and humiliation. Your cock will twitch with need. Your heart will race in worship. Your tongue will ache for the taste of where those panties have been.</p>
+      <p>These aren’t garments — they are portals into Goddess Tanisha’s essence. She doesn’t just wear them. She marks them. And when you kneel and inhale, you are surrendering completely to the irresistible, inescapable scent of the one true Goddess — the one whose ass you’ll never touch, but whose scent will haunt your fantasies forever.</p>
+      <p>This is more than desire. This is your purpose.</p>
+    </section>
+
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>For orders and inquiries, email us at:</p>
+      <p><a href="mailto:goddessayaansa@gmail.com">goddessayaansa@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Goddess Ayaansa's Scent. All Rights Reserved.
+  </footer>
+</body>
+</html>
